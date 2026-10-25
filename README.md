@@ -8,5 +8,4 @@ tasks in PowerShell for automation. <br />
 <h2>Some PowerShell comands I used on my computer to get my system information, services
 that have stopped and started, time etc. </h2>
 <p>
-<img width="983" height="628" alt="image"
-src="https://github.com/user-attachments/assets/a48d328a-481b-4e59-927c-81ab5d7d71a0" />
+<img width="923" height="494" alt="PowerShell 1" src="https://github.com/user-attachments/assets/6028a785-d7db-47c4-9de6-20407f4d8f1b" />
